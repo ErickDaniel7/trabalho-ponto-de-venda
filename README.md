@@ -4,7 +4,7 @@ Desenvolvido para simplificar o uso e apoiar vendedores no controle eficiente da
 <div align="left">
   <details> 
 <summary><b>Integrantes</b></summary>
- <h4>Nome: Erick Daniel Teixeira Vier - RA: 00235980 <br>
+ <h4>Nome: Erick Daniel Teixeira Vier - RA: 00235908 <br>
            Nicolas Leandro Souza Lorencini - RA: 00238714</h4>
  </div></details>
 
