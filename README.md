@@ -11,9 +11,8 @@ Desenvolvido para simplificar o uso e apoiar vendedores no controle eficiente da
 <br>
 
 <div>
-<img src="   " alt="   " width="150" height="300">
-<img src="   " alt="   " width="150" height="300">  
-<img src="   " alt="   " width="150" height="300">
-<img src="   " alt="   " width="150" height="300"> 
-<img src="   " alt="   " width="150" height="300">   
+<img src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/Login.png" width="150" height="300"><br>
+<img src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/TelaApp.png" width="150" height="300">  <br>
+<img src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/CadastroProduto.png" width="150" height="300"><br>
+<img src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/CadastroPedido.png" width="150" height="300"> 
 </div>
