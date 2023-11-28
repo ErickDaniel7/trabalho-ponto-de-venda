@@ -23,7 +23,7 @@ Utilize os princípios do design inclusivo para abranger o maior número de usu�
 
 <div>
 <img align="left" src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/Login.png" width="400" height="800"><br>
-<img align="right" src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/TelaApp.png" width="400" height="800">  <br>
+<img align="left" src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/TelaApp.png" width="400" height="800">  <br>
 <img align="left" src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/CadastroProduto.png" width="400" height="800"><br>
-<img align="right" src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/CadastroPedido.png" width="400" height="800"> 
+<img align="left" src="https://github.com/ErickDaniel7/trabalho-ponto-de-venda/blob/main/PrintsTelas/CadastroPedido.png" width="400" height="800"> 
 </div>
